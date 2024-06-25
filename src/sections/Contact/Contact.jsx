@@ -7,7 +7,7 @@ function Contact() {
                 <h1 className='sectionTitle'>
                     Contact
                 </h1>
-                <form action="https://formspree.io/f/manwwdva" method="post">
+                <form action="" method="post">
                     <div className='formGroup'>
                         <label htmlFor='name' hidden>
                             Name
