@@ -44,7 +44,7 @@ function Hero() {
             <a href="https://instagram.com/sagar_v._bhoge" target='blank'>
                 <img src={InstagramIcon} alt='Instagram.icon'></img>
             </a>
-            <a href="https://linkedin.com/sagar-vaijinath-bhoge" target='blank'>
+            <a href="https://linkedin.com/in/sagar-vaijinath-bhoge" target='blank'>
                 <img src={LinkedInIcon} alt='LinkedIn.icon'></img>
             </a>
             <a href="https://github.com/sagarbhoge2003" target='blank'>
