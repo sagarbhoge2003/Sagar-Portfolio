@@ -41,13 +41,13 @@ function Hero() {
             Full Stack Developer
         </h2>
         <span>
-            <a href="https://instagram.com/" target='blank'>
+            <a href="https://instagram.com/sagar_v._bhoge" target='blank'>
                 <img src={InstagramIcon} alt='Instagram.icon'></img>
             </a>
-            <a href="https://linkedin.com/" target='blank'>
+            <a href="https://linkedin.com/sagar-vaijinath-bhoge" target='blank'>
                 <img src={LinkedInIcon} alt='LinkedIn.icon'></img>
             </a>
-            <a href="https://github.com/" target='blank'>
+            <a href="https://github.com/sagarbhoge2003" target='blank'>
                 <img src={GitHubIcon} alt='Github.icon'></img>
             </a>
         </span>
