@@ -19,6 +19,10 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - **Skills Section**: A display of my technical skills.
 - **Contact Form**: Directly send me an email via FormSpree.
 
+## Deployment
+
+This project is deployed on Netlify. You can visit the live site [here](https://sagar-dev.netlify.app).
+
 ## Installation and Setup
 
 To run this project locally, follow these steps:
@@ -48,11 +52,6 @@ To run this project locally, follow these steps:
     ```bash
     npm run serve
     ```
-
-## Deployment
-
-This project is deployed on Netlify. You can visit the live site [here](https://sagar-dev.netlify.app).
-
 
 ## Usage
 
